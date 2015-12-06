@@ -29,7 +29,7 @@ User can **PRESS 1 to go back to menu**.
 ![alt tag](https://cloud.githubusercontent.com/assets/15609881/11613718/0c9ecd90-9c23-11e5-8893-640946d62279.png)
 
 ## Motorbikes visualisation and motion interaction
-If the user chooses on of the spheres which represent motorbikes he will be greeted with a **360 degrees view** of the bike with which user can interact using **MOTION**. This doesn **NOT** require a kinect or similar device, the only requirement is build-in laptop camera or connected external camera.
+If the user chooses on of the spheres which represent motorbikes he will be greeted with a **360 degrees view** of the bike with which user can interact using **MOTION**. This does **NOT** require a kinect or similar device, the only requirement is build-in laptop camera or connected external camera.
 
 **To interact using motion:**
 - Wave your hand on **LEFT** hand side of the screen in order to turn the bike left
