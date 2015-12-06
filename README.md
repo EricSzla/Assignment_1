@@ -35,6 +35,8 @@ If the user chooses on of the spheres which represent motorbikes he will be gree
 - Wave your hand on **LEFT** hand side of the screen in order to turn the bike left
 - Wave your hand on **RIGHT** hand side of the screen in order to turn the bike right
 
+![alt tag](https://cloud.githubusercontent.com/assets/15609881/11613822/9c714a08-9c26-11e5-80f5-07f5dd5d1fb9.png)
+
 ![alt tag](https://cloud.githubusercontent.com/assets/15609881/11613720/293dbd30-9c23-11e5-8a73-f196cbd60740.png)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/15609881/11613721/2f03c048-9c23-11e5-9063-6739a90a52b3.png)
