@@ -73,28 +73,7 @@ class MotorBike extends Bikes
 
     ballcount = 0;
     return img2;
-
-    /*else if (keyPressed)
-     {
-     int k = key - '0';
-     pressed = true;
-     if (key == CODED)
-     {
-     if (keyCode == LEFT)
-     {
-     
-     } else if (keyCode == RIGHT)
-     {
-     
-     } // End of if key == CODED
-     else if (k >= 1 && k <= 5)
-     {
-     pressed = false;
-     } else
-     {
-     pressed = true;
-     }
-     }// End of keyPressed*/
+    
   }//End of draw bike()
 
 
