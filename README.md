@@ -1,7 +1,6 @@
-# Assignment_1
+# Data-Visualisation using Processing IDE
 
-OOP assignment.
-The assignment loads and visualize data (specifications) of three different motorbikes:
+The project loads and visualize data (specifications) of three different motorbikes:
 - Yamaha R1
 - Kawasaki H2R
 - Honda CBR
